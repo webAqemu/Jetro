@@ -145,7 +145,7 @@ a {
 }
 
 .slider__item-text {
-	width: 414px;
+	max-width: 414px;
 	height: 125px;
 	padding: 20px;
 	background-color: rgba(232, 102, 60, .8);
